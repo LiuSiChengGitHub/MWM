@@ -1,0 +1,61 @@
+﻿# Python environments
+.env
+.venv/
+venv/
+env/
+.conda/
+
+# Python cache and tooling
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Logs and local outputs
+logs/
+outputs/
+artifacts/
+reports/
+tmp/
+temp/
+
+# Data and model artifacts
+data/
+datasets/
+data_raw/
+data_processed/
+checkpoints/
+models/
+*.ckpt
+*.pth
+*.pt
+*.onnx
+*.pkl
+
+# Large archives and extracted raw files
+*.zip
+*.tar
+*.tar.gz
+*.gz
+*.7z
+
+# Local analysis files
+*.sqlite
+*.db
+*.feather
+*.parquet
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Temporary files created during document inspection
+docs/xlsx_unzip/
