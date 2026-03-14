@@ -12,3 +12,5 @@ https://yijun-yang.github.io/MeWM/
 同时它具备生理约束下的并行分支rollout、对未知合并症/异常流程的路由，以及可审计的安全边界与可控性治理（生理阈值、麻醉/手术规范、设备限制、药物相互作用、流程硬约束等）。
 
 大家重点关注：利用术前基础特征➕术中波形及其他术中数据，做术中大出血/低血压，术后并发症预测 
+
+https://docs.qq.com/doc/DQ2xhc0FDZHZISE96?no_promotion=1&is_blank_or_template=blank&_t=1773490177469&nlc=1
